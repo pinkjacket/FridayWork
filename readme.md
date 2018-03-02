@@ -28,4 +28,15 @@ I was thinking about buying the book that goes with these articles but it's like
 
 _CSS documentation_
 I was looking for more tutorials but I can't tell which ones are going to be any good so I just went to the mozilla documentation and I'll see if I learn anything interesting.
-*
+* box height/width ignores percentages, always adopt the dimensions of their content unless you set them in pixels or ems
+* overflow can be used to determine how content too big for a box is handled, including automatically adding scroll bars
+* outline is similar to border, but not actually part of the box model
+* background-position allows for fine control over where background images go
+* linear-gradient lets you make color gradients really easily, repeating-linear-gradient makes it repeat
+* background-attachment determines whether the background scrolls with the content or not
+* all background properties can be put on one line via shorthand
+* you can put multiple backgrounds on one element
+* you can make borders out of images but I can't see ever actually needing to do so
+* there's some pretty impressive stuff you can do with filtering and color-blending but I'm gonna have to come back to take a closer look at that another time because it looks complicated
+* boxes can be flexible, autoadjusting to fill the space they're in
+* positioning lets you break elements out of the usual flow of a document
