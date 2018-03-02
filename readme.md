@@ -23,3 +23,9 @@ _Design for non-designers_
 * don't copy though
 * think about the designs of things you look at
 * the first pass is always going to look terrible
+
+I was thinking about buying the book that goes with these articles but it's like 40 dollars and my individual book budget tends to be more in the $10-20 range so maybe not today.
+
+_CSS documentation_
+I was looking for more tutorials but I can't tell which ones are going to be any good so I just went to the mozilla documentation and I'll see if I learn anything interesting.
+*
