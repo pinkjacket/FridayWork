@@ -40,3 +40,15 @@ I was looking for more tutorials but I can't tell which ones are going to be any
 * there's some pretty impressive stuff you can do with filtering and color-blending but I'm gonna have to come back to take a closer look at that another time because it looks complicated
 * boxes can be flexible, autoadjusting to fill the space they're in
 * positioning lets you break elements out of the usual flow of a document
+
+there's a tutorial here about making a tabbed infobox that looks interesting but I may tackle that over the weekend
+
+I've looked around for some more design stuff but it's always hard to tell at a glance what's going to actually be useful. Therefore, I think I'm going to spend the last couple hours today trying to put a dent in the Udemy courses I picked up in January. The work is in C# and uses Unity, which as far as I can tell is a giant pain to put on github, but I'll do my best to provide a few pictures and summarize what gets done.
+
+_Unity Pictures_
+
+As mentioned above, putting a Unity project on github seems to be a whole ordeal in and of itself. I could just upload the C# code but I'm not sure it works without Unity. Here's a link to a picture or two of what I spent the last of the afternoon working on, though, plus some of the other classes I have waiting for me. Almost all of them require a working knowledge of C# and Unity so for now I have to focus on the first one. There's Blender, but to use Blender you have to learn how to navigate the program itself, which is why you don't learn how to actually model anything until two hours into that course.
+
+https://imgur.com/a/FXCyr
+
+It's a basic text adventure. I'll see if I can finish it over the weekend.
