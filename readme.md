@@ -52,3 +52,7 @@ As mentioned above, putting a Unity project on github seems to be a whole ordeal
 https://imgur.com/a/FXCyr
 
 It's a basic text adventure. I'll see if I can finish it over the weekend.
+
+### Wrapup
+
+Today I was able to answer some questions about CSS which I hope to use to style future projects with a little more flair than just a background color and a font. I also got myself back on my Udemy work, which is important if I want to ever actually make a game instead of just thinking about it. I did manage to figure out how to solve a text display problem not covered in the Udemy videos, so I feel good about that. I'm also hoping the time spent on C# will help a bit with Android, although I know they're not quite the same.
